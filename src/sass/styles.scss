@@ -1,0 +1,19 @@
+//
+//-- Main SCSS file
+//
+
+//config
+@import "config/config";
+
+//mixins
+@import "mixins/mixins_general";
+@import "mixins/mixins_breakpoints";
+@import "mixins/mixins_grids";
+
+//base
+@import "base/reset";
+@import "base/helper_classes";
+@import "base/typography";
+
+//
+
